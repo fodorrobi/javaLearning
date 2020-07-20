@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smil xmlns="http://www.w3.org/2001/SMIL20/Language"><head><meta name="clientManifestRelativePath" content="ABC_News.ismc"/></head><body><switch><video src="ABC_News.ismv" systemBitrate="1000000" systemLanguage="und"><param name="trackID" value="1" valuetype="data"/></video><audio src="ABC_News.isma" systemBitrate="128000" systemLanguage="und"><param name="trackID" value="2" valuetype="data"/><param name="trackName" value="audio_und" valuetype="data"/></audio></switch></body></smil>
